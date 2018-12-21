@@ -4,7 +4,7 @@
    height: 2150px;
    /*border:1px solid #cecece;*/
    border-radius: 10px;
-   padding: 50px;
+   padding: 5px;
 }
 .con_ft{
   padding-left: 30px;
@@ -118,9 +118,9 @@
     }
     #footer{
 
-      padding: 16px;
+      padding: 5px;
       text-align: center;
-      margin-top: 1200px;
+      margin-top: 300px;
     }
     .ft_ad{
       text-align: center !important;
@@ -130,7 +130,10 @@
       margin-left: 50px;
     }
     .con_abt, .some{
-      margin-bottom: 400px;
+      margin-bottom: 0px;
+    }
+    #gmap_canvas{
+       height: 75% !important;
     }
     .ft_ps{
       text-align: left !important;
@@ -157,7 +160,7 @@
   color: white;
 }
 .ft_head{
-  padding: 30px;
+  padding: 10px;
 }
 .ft_nav li{
   color: white !important;
@@ -166,7 +169,7 @@
   color: orange !important;
 }
 .ft_head1{
-  padding: 30px;
+  padding: 10px;
 }
 .ft_ps>li>a:hover{
   color: orange !important;
